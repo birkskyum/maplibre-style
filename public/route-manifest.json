@@ -1,0 +1,409 @@
+{
+  "/*404": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/_...404_-f1e817b2.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    }
+  ],
+  "/deprecations": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/deprecations-3c9f0236.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/caption-4b8b0fd6.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+    }
+  ],
+  "/expressions": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/expressions-27952dc0.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    }
+  ],
+  "/glyphs": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/glyphs-58141e12.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    }
+  ],
+  "/": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/index-6ed0ef09.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    }
+  ],
+  "/layers": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/layers-fd590cde.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/items-70992cad.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/caption-4b8b0fd6.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/layers-c0520030.css"
+    }
+  ],
+  "/light": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/light-9cfefc5c.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/items-70992cad.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+    }
+  ],
+  "/root": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/root-76009f37.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/items-70992cad.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+    }
+  ],
+  "/sources": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/sources-e1e35240.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/items-70992cad.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+    }
+  ],
+  "/sprite": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/sprite-ec012a85.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    }
+  ],
+  "/transition": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/transition-5d863e17.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/v8-31fa6040.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/items-70992cad.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/property-53fcac70.css"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+    }
+  ],
+  "/types": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/types-c27554a6.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+    },
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+    }
+  ],
+  "entry-client": [
+    {
+      "type": "script",
+      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+    }
+  ],
+  "index.html": []
+}
