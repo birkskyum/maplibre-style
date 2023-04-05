@@ -5,7 +5,6 @@ import staticAdapter from 'solid-start-static';
 const config = defineConfig(({command, mode, ssrBuild}) => {
     console.log('command', command);
     console.log('mode', mode);
-    console.log('ssrBuild', ssrBuild);
 
     return {
         base: mode === 'production' ? '/github-repo-name/' : '',
