@@ -2,407 +2,407 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/_...404_-f1e817b2.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/_...404_-5c8dfd9c.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     }
   ],
   "/deprecations": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/deprecations-3c9f0236.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/deprecations-2fdda237.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/caption-4b8b0fd6.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/caption-af427fa3.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/subtitle-ff2dd8c8.js"
     }
   ],
   "/expressions": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/expressions-27952dc0.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/expressions-e100cc52.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     }
   ],
   "/glyphs": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/glyphs-58141e12.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/glyphs-9b79be4c.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/index-6ed0ef09.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/index-d488246b.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     }
   ],
   "/layers": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/layers-fd590cde.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/layers-bece3666.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/items-70992cad.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/items-82346516.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/subtitle-ff2dd8c8.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/caption-4b8b0fd6.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/caption-af427fa3.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/layers-c0520030.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/layers-c0520030.css"
     }
   ],
   "/light": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/light-9cfefc5c.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/light-d548dfc1.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/items-70992cad.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/items-82346516.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/subtitle-ff2dd8c8.js"
     }
   ],
   "/root": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/root-76009f37.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/root-b9d1bd3c.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/items-70992cad.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/items-82346516.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/subtitle-ff2dd8c8.js"
     }
   ],
   "/sources": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/sources-e1e35240.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/sources-a3ad732a.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/items-70992cad.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/items-82346516.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/subtitle-ff2dd8c8.js"
     }
   ],
   "/sprite": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/sprite-ec012a85.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/sprite-e48a16f0.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     }
   ],
   "/transition": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/transition-5d863e17.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/transition-5035f396.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/v8-31fa6040.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/v8-31fa6040.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/items-70992cad.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/items-82346516.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/property-c54d3cb9.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-8b9ac3cb.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/property-53fcac70.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/property-53fcac70.css"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/subtitle-e7688640.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/subtitle-ff2dd8c8.js"
     }
   ],
   "/types": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/types-c27554a6.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/types-bb890ef9.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/markdown-e5577b03.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-d15779de.js"
     },
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/markdown-285a7e65.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/markdown-285a7e65.css"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/github-repo-name/assets/entry-client-9d25f4a5.js"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-815a31e8.js"
     },
     {
       "type": "style",
-      "href": "/github-repo-name/assets/entry-client-2a0af10c.css"
+      "href": "/publish-maplibre-style-spec-docs/assets/entry-client-2a0af10c.css"
     }
   ],
   "index.html": []
