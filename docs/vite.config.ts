@@ -3,7 +3,7 @@ import {defineConfig} from 'vite';
 import staticAdapter from 'solid-start-static';
 
 const config = defineConfig(({command, mode, ssrBuild}) => {
-    console.log('command', command);
+
     console.log('mode', mode);
 
     return {
