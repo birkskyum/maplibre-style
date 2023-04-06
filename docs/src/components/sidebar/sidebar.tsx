@@ -17,11 +17,13 @@ export function Sidebar(props: SidebarProps) {
                     <div class={style.sidebar_inner_container}>
                         <div class={style.navItems}>
                             <ul>
-                                {pages.map((page) => (
-                                    <li>
-                                        <a classList={{'sidebar-link': true, 'active': page.path === location.pathname}} href={`${import.meta.env.BASE_URL}${page.path}`}>{page.title}</a>
-                                    </li>
-                                ))}
+                                {pages.map((page) => {
+                                    console.log('location.pathname', location.pathname);
+                                    console.log('page.path', `${import.meta.env.BASE_URL}${page.path}`);
+                                    return <li>
+                                        <a classList={{'sidebar-link': true, 'active': `${import.meta.env.BASE_URL}${page.path}` === location.pathname}} href={`${import.meta.env.BASE_URL}${page.path}`}>{page.title}</a>
+                                    </li>;
+                                })}
                                 <li>
                                     <a  target="_blank" href="https://github.com/maplibre/maplibre-gl-style-spec/blob/main/CHANGELOG.md">Changelog</a>
                                 </li>
