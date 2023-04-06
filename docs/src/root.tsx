@@ -33,6 +33,8 @@ export default function Root() {
                 <Meta name="viewport" content="width=device-width, initial-scale=1" />
                 {/* <Link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' /> */}
 
+                <Link rel="icon" type="image/x-icon" href={`${import.meta.env.BASE_URL}favicon.ico`} />
+
                 <Link rel="preconnect" href="https://fonts.googleapis.com" />
                 <Link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
                 <Link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet" />
