@@ -1,4 +1,4 @@
-import{g as pe,a as t,i as o,c as i,t as me}from"./entry-client-0d903edb.js";import{M as s}from"./markdown-510113d5.js";import{s as r}from"./v8-31fa6040.js";import{I as n}from"./items-58834af2.js";import{S as a}from"./property-fd2e6065.js";import"./subtitle-c7c6d939.js";const ge=me("<div><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/>");function _e(){const T=["vector","raster","raster-dem","geojson","image","video"];return(()=>{const e=pe(ge),w=e.firstChild,[l,L]=t(w.nextSibling),z=l.nextSibling,[c,k]=t(z.nextSibling),M=c.nextSibling,[p,G]=t(M.nextSibling),N=p.nextSibling,[m,O]=t(N.nextSibling),A=m.nextSibling,[g,I]=t(A.nextSibling),J=g.nextSibling,[d,R]=t(J.nextSibling),U=d.nextSibling,[u,E]=t(U.nextSibling),B=u.nextSibling,[b,P]=t(B.nextSibling),C=b.nextSibling,[h,D]=t(C.nextSibling),W=h.nextSibling,[x,F]=t(W.nextSibling),q=x.nextSibling,[y,H]=t(q.nextSibling),K=y.nextSibling,[_,V]=t(K.nextSibling),Q=_.nextSibling,[S,X]=t(Q.nextSibling),Y=S.nextSibling,[$,Z]=t(Y.nextSibling),ee=$.nextSibling,[v,te]=t(ee.nextSibling),oe=v.nextSibling,[f,ie]=t(oe.nextSibling),se=f.nextSibling,[j,re]=t(se.nextSibling),ne=j.nextSibling,[ae,le]=t(ne.nextSibling);return o(e,i(s,{get content(){return`# Sources
+import{g as pe,a as t,i as o,c as i,t as me}from"./entry-client-25f6c175.js";import{M as s}from"./markdown-a04ee710.js";import{s as r}from"./v8-704d4818.js";import{I as n}from"./items-56881d52.js";import{S as a}from"./property-84e9a0e2.js";import"./subtitle-3e366b8e.js";const ge=me("<div><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/>");function _e(){const T=["vector","raster","raster-dem","geojson","image","video"];return(()=>{const e=pe(ge),w=e.firstChild,[l,L]=t(w.nextSibling),z=l.nextSibling,[c,k]=t(z.nextSibling),M=c.nextSibling,[p,G]=t(M.nextSibling),N=p.nextSibling,[m,O]=t(N.nextSibling),A=m.nextSibling,[g,I]=t(A.nextSibling),J=g.nextSibling,[u,R]=t(J.nextSibling),U=u.nextSibling,[d,E]=t(U.nextSibling),B=d.nextSibling,[b,P]=t(B.nextSibling),C=b.nextSibling,[h,D]=t(C.nextSibling),W=h.nextSibling,[x,F]=t(W.nextSibling),q=x.nextSibling,[y,H]=t(q.nextSibling),K=y.nextSibling,[_,V]=t(K.nextSibling),Q=_.nextSibling,[S,X]=t(Q.nextSibling),Y=S.nextSibling,[$,Z]=t(Y.nextSibling),ee=$.nextSibling,[v,te]=t(ee.nextSibling),oe=v.nextSibling,[f,ie]=t(oe.nextSibling),se=f.nextSibling,[j,re]=t(se.nextSibling),ne=j.nextSibling,[ae,le]=t(ne.nextSibling);return o(e,i(s,{get content(){return`# Sources
 Sources state which data the map should display. Specify the type of source with the \`"type"\` property, which must be one of 
 ${T.map(ce=>`\`${ce}\``).join(", ")}. Adding a source isn't enough to make data appear on the map because sources don't contain styling details like color or width. Layers refer to a source and give it a visual representation. This makes it possible to style the same source in different ways, like differentiating between types of roads in a highways layer.
 
@@ -40,7 +40,7 @@ Tiled sources (vector and raster) must specify their details according to the [T
 ## vector
 
 
-A vector tile source. Tiles must be in [Mapbox Vector Tile format](https://docs.mapbox.com/vector-tiles/). All geometric coordinates in vector tiles must be between \`-1 * extent\` and \`(extent * 2) - 1\` inclusive. All layers that use a vector source must specify a [\`"source-layer"\`](/maplibre-gl-js-docs/style-spec/layers/#source-layer) value. 
+A vector tile source. Tiles must be in [Mapbox Vector Tile format](https://docs.mapbox.com/vector-tiles/). All geometric coordinates in vector tiles must be between \`-1 * extent\` and \`(extent * 2) - 1\` inclusive. All layers that use a vector source must specify a [\`"source-layer"\`](/maplibre-style/layers/#source-layer) value. 
 
 \`\`\`json
 "maplibre-streets": {
@@ -65,7 +65,7 @@ A raster tile source.
     "tileSize": 256
 }
 \`\`\`
-`}),m,O),o(e,i(n,{headingLevel:"3",get entry(){return r.source_raster},section:"raster"}),g,I),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"}}}),d,R),o(e,i(s,{content:`
+`}),m,O),o(e,i(n,{headingLevel:"3",get entry(){return r.source_raster},section:"raster"}),g,I),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"}}}),u,R),o(e,i(s,{content:`
 ## raster-dem
 
 A raster DEM source. Only supports [Mapbox Terrain RGB](https://blog.mapbox.com/global-elevation-data-6689f1d0ba65) and Mapzen Terrarium tiles.
@@ -79,7 +79,7 @@ A raster DEM source. Only supports [Mapbox Terrain RGB](https://blog.mapbox.com/
     ],
 }
 \`\`\`
-`}),u,E),o(e,i(n,{headingLevel:"3",get entry(){return r.source_raster_dem},section:"raster-dem"}),b,P),o(e,i(a,{supportItems:{"basic functionality":{js:"0.43.0"}}}),h,D),o(e,i(s,{content:`
+`}),d,E),o(e,i(n,{headingLevel:"3",get entry(){return r.source_raster_dem},section:"raster-dem"}),b,P),o(e,i(a,{supportItems:{"basic functionality":{js:"0.43.0"}}}),h,D),o(e,i(s,{content:`
 ## geojson
 
 A [GeoJSON](http://geojson.org/) source. Data must be provided via a \`"data"\` property, whose value can be a URL or inline GeoJSON.
