@@ -19,7 +19,7 @@ export function Sidebar(props: SidebarProps) {
                             <ul>
                                 {pages.map((page) => (
                                     <li>
-                                        <a classList={{'sidebar-link': true, 'active': page.path === location.pathname}} href={page.path}>{page.title}</a>
+                                        <a classList={{'sidebar-link': true, 'active': page.path === location.pathname}} href={`${import.meta.env.BASE_URL}${page.path}`}>{page.title}</a>
                                     </li>
                                 ))}
                                 <li>
