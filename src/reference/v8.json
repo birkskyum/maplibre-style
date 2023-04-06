@@ -78,7 +78,7 @@
     },
     "sprite": {
       "type": "sprite",
-      "doc": "An array of `{id: 'my-sprite', url: 'https://example.com/sprite'} objects. Each object should represent a unique URL to load a sprite from and and a unique ID to use as a prefix when referencing images from that sprite (i.e. 'my-sprite:image'). All the URLs are internally extended to load both .json and .png files. If the `id` field is equal to 'default', the prefix is omitted (just 'image' instead of 'default:image'). All the IDs and URLs must be unique. For backwards compatibility, instead of an array, one can also provide a single string that represent a URL to load the sprite from. The images in this case won't be prefixed.",
+      "doc": "An array of `{id: 'my-sprite', url: 'https://example.com/sprite'}` objects. Each object should represent a unique URL to load a sprite from and and a unique ID to use as a prefix when referencing images from that sprite (i.e. 'my-sprite:image'). All the URLs are internally extended to load both .json and .png files. If the `id` field is equal to 'default', the prefix is omitted (just 'image' instead of 'default:image'). All the IDs and URLs must be unique. For backwards compatibility, instead of an array, one can also provide a single string that represent a URL to load the sprite from. The images in this case won't be prefixed.",
       "example": "https://api.maptiler.com/maps/openstreetmap/sprite"
     },
     "glyphs": {
@@ -1467,7 +1467,9 @@
     },
     "icon-padding": {
       "type": "padding",
-      "default": [2],
+      "default": [
+        2
+      ],
       "units": "pixels",
       "doc": "Size of additional area round the icon bounding box used for detecting symbol collisions. Values are declared using CSS margin shorthand syntax: a single value applies to all four sides; two values apply to [top/bottom, left/right]; three values apply to [top, left/right, bottom]; four values apply to [top, right, bottom, left]. For backwards compatibility, a single bare number is accepted, and treated the same as a one-element array - padding applied to all sides.",
       "requires": [

@@ -11,6 +11,7 @@ Root level properties of a MapLibre style specify the map's layers, tile sources
 {
     "version": 8,
     "name": "MapLibre Demo Tiles",
+    "sprite": "mapbox://sprites/mapbox/streets-v8",
     "glyphs": "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
     "sources": {... },
     "layers": [...]
