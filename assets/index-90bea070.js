@@ -1,4 +1,4 @@
-import{g as h,a as i,i as r,c as o,t as u}from"./entry-client-b9c9e485.js";import{M as c}from"./markdown-aa24ea21.js";import{s}from"./v8-704d4818.js";import{I as y}from"./items-89dcfc22.js";import"./property-4388dd00.js";import"./subtitle-8cb1fe2b.js";const f=u("<div><!#><!/><!#><!/>");function v(){const l=`# Light
+import{g as h,a as i,i as r,c as o,t as u}from"./entry-client-22abe7b3.js";import{M as c}from"./markdown-acfd080d.js";import{s}from"./v8-704d4818.js";import{I as y}from"./items-9e08ff60.js";import"./property-3b5b18d9.js";import"./subtitle-21a2903f.js";const f=u("<div><!#><!/><!#><!/>");function v(){const l=`# Light
     
 A style's \`light\` property provides a global light source for that style. Since this property is the light used to light extruded features, you will only see visible changes to your map style when modifying this property if you are using extrusions.
 
