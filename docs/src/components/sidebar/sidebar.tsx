@@ -1,6 +1,6 @@
 import style from './sidebar.module.scss';
 import './sidebar.css';
-import {A} from 'solid-start';
+import {A, useLocation} from 'solid-start';
 import {pages} from '~/pages';
 
 interface SidebarProps {
@@ -9,6 +9,7 @@ interface SidebarProps {
 
 export function Sidebar(props: SidebarProps) {
 
+    const location = useLocation();
     return (
         <>
             <aside class={`${style.sidebar_outer_container} ${props.class}`}>
@@ -18,11 +19,11 @@ export function Sidebar(props: SidebarProps) {
                             <ul>
                                 {pages.map((page) => (
                                     <li>
-                                        <A end={true} class="sidebar-link" href={page.path.replace('/', '')}>{page.title}</A>
+                                        <a classList={{'sidebar-link': true, 'active': page.path === location.pathname}} href={page.path}>{page.title}</a>
                                     </li>
                                 ))}
                                 <li>
-                                    <a target="_blank" href="https://github.com/maplibre/maplibre-gl-style-spec/blob/main/CHANGELOG.md">Changelog</a>
+                                    <a  target="_blank" href="https://github.com/maplibre/maplibre-gl-style-spec/blob/main/CHANGELOG.md">Changelog</a>
                                 </li>
                             </ul>
                         </div>
