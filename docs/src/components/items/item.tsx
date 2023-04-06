@@ -1,6 +1,4 @@
-import entries from 'object.entries';
 import SDKSupportTable from '../sdk-support-table/sdk-support-table';
-// import Icon from '@mapbox/mr-ui/icon';
 import Property from '../property.jsx';
 import Subtitle from '../subtitle.jsx';
 import {Markdown} from '~/components/markdown/markdown';
@@ -149,7 +147,7 @@ export default function Item (props:IItem) {
                 </span>
             );
         } else {
-            const [name, value] = entries(req)[0];
+            const [name, value] = Object.entries(req)[0];
             if (Array.isArray(value)) {
                 return (
                     <span>
@@ -159,7 +157,7 @@ export default function Item (props:IItem) {
                                 <code>{JSON.stringify(r)}</code>
                             ))
                             .reduce((prev, curr) => [prev, ', or ', curr])}
-                        .{' '}
+                        <span>{'. '}</span>
                     </span>
                 );
             } else {
@@ -282,7 +280,7 @@ export default function Item (props:IItem) {
                     !Array.isArray(props.values)}>
                 <div class="my12 style-spec-item-dl">
                     <dl>
-                        {entries(props.values).map(
+                        {Object.entries(props.values).map(
                             ([v, {doc}], i) => [
                                 <dt key={`${i}-dt`}>
                                     <code>{JSON.stringify(v)}</code>:
