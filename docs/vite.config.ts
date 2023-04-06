@@ -8,7 +8,7 @@ const config = defineConfig(({command, mode, ssrBuild}) => {
 
     return {
         base: mode === 'production' ? '/publish-maplibre-style-spec-docs/' : '/',
-        plugins: [solid({solid: {hydratable: true}, adapter: staticAdapter()})],
+        plugins: [solid({ssr: true, solid: {hydratable: true}, adapter: staticAdapter()})],
     };
 });
 
