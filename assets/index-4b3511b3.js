@@ -1,4 +1,4 @@
-import{g as i,i as o,c as s,t as n}from"./entry-client-48718671.js";import{M as r}from"./markdown-5f5c52a6.js";import{s as a}from"./v8-704d4818.js";const p=n("<div>");function m(){const t=`
+import{g as i,i as o,c as s,t as n}from"./entry-client-11014974.js";import{M as r}from"./markdown-4777c4f5.js";import{s as a}from"./v8-704d4818.js";const p=n("<div>");function m(){const t=`
 # Sprite
 
 A style's \`sprite\` property supplies a URL template for loading small images to use in rendering \`background-pattern\`, \`fill-pattern\`, \`line-pattern\`,\`fill-extrusion-pattern\` and \`icon-image\` style properties.
@@ -28,7 +28,7 @@ A valid sprite source must supply two types of files:
 
 Apart from the required \`width\`, \`height\`, \`x\`, and \`y\` properties, the following optional properties are supported:
 <!-- copyeditor ignore retext-passive -->
-- \`content\`: An array of four numbers, with the first two specifying the left, top corner, and the last two specifying the right, bottom corner. If present, and if the icon uses [\`icon-text-fit\`](/maplibre-style/layers/#layout-symbol-icon-text-fit), the symbol's text will be fit inside the content box.
+- \`content\`: An array of four numbers, with the first two specifying the left, top corner, and the last two specifying the right, bottom corner. If present, and if the icon uses [\`icon-text-fit\`](/maplibre-gl-style-spec/layers/#layout-symbol-icon-text-fit), the symbol's text will be fit inside the content box.
 - \`stretchX\`: An array of two-element arrays, consisting of two numbers that represent the _from_ position and the _to_ position of areas that can be stretched.
 - \`stretchY\`: Same as \`stretchX\`, but for the vertical dimension.
 
