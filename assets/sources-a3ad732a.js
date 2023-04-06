@@ -1,6 +1,6 @@
-import{i as t,c as o,t as c}from"./entry-client-8aa7ecb6.js";import{M as s}from"./markdown-4e7b44d8.js";import{s as r}from"./v8-31fa6040.js";import{I as a}from"./items-3c541dd5.js";import{S as i}from"./property-34334485.js";import"./subtitle-9d8b2e13.js";const p=c("<div></div>",2);function b(){const n=["vector","raster","raster-dem","geojson","image","video"];return(()=>{const e=p.cloneNode(!0);return t(e,o(s,{get content(){return`# Sources
+import{g as pe,a as t,i as o,c as i,t as me}from"./entry-client-815a31e8.js";import{M as s}from"./markdown-d15779de.js";import{s as r}from"./v8-31fa6040.js";import{I as n}from"./items-82346516.js";import{S as a}from"./property-8b9ac3cb.js";import"./subtitle-ff2dd8c8.js";const ge=me("<div><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/><!#><!/></div>",38);function _e(){const T=["vector","raster","raster-dem","geojson","image","video"];return(()=>{const e=pe(ge),w=e.firstChild,[l,L]=t(w.nextSibling),z=l.nextSibling,[c,k]=t(z.nextSibling),M=c.nextSibling,[p,G]=t(M.nextSibling),N=p.nextSibling,[m,O]=t(N.nextSibling),A=m.nextSibling,[g,I]=t(A.nextSibling),J=g.nextSibling,[d,R]=t(J.nextSibling),U=d.nextSibling,[u,E]=t(U.nextSibling),B=u.nextSibling,[b,P]=t(B.nextSibling),C=b.nextSibling,[h,D]=t(C.nextSibling),W=h.nextSibling,[x,F]=t(W.nextSibling),q=x.nextSibling,[y,H]=t(q.nextSibling),K=y.nextSibling,[_,V]=t(K.nextSibling),Q=_.nextSibling,[S,X]=t(Q.nextSibling),Y=S.nextSibling,[$,Z]=t(Y.nextSibling),ee=$.nextSibling,[v,te]=t(ee.nextSibling),oe=v.nextSibling,[f,ie]=t(oe.nextSibling),se=f.nextSibling,[j,re]=t(se.nextSibling),ne=j.nextSibling,[ae,le]=t(ne.nextSibling);return o(e,i(s,{get content(){return`# Sources
 Sources state which data the map should display. Specify the type of source with the \`"type"\` property, which must be one of 
-${n.map(l=>`\`${l}\``).join(", ")}. Adding a source isn't enough to make data appear on the map because sources don't contain styling details like color or width. Layers refer to a source and give it a visual representation. This makes it possible to style the same source in different ways, like differentiating between types of roads in a highways layer.
+${T.map(ce=>`\`${ce}\``).join(", ")}. Adding a source isn't enough to make data appear on the map because sources don't contain styling details like color or width. Layers refer to a source and give it a visual representation. This makes it possible to style the same source in different ways, like differentiating between types of roads in a highways layer.
 
 Tiled sources (vector and raster) must specify their details according to the [TileJSON specification](https://github.com/mapbox/tilejson-spec). There are several ways to do so:
 - By supplying TileJSON properties such as \`"tiles"\`, \`"minzoom"\`, and \`"maxzoom"\` directly in the source:
@@ -51,7 +51,7 @@ A vector tile source. Tiles must be in [Mapbox Vector Tile format](https://docs.
 }
 \`\`\`
 
-`}}),null),t(e,o(a,{headingLevel:"3",get entry(){return r.source_vector},section:"vector"}),null),t(e,o(i,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"}}}),null),t(e,o(s,{content:`
+`}}),l,L),o(e,i(n,{headingLevel:"3",get entry(){return r.source_vector},section:"vector"}),c,k),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"}}}),p,G),o(e,i(s,{content:`
 ## raster
 
 A raster tile source.
@@ -65,7 +65,7 @@ A raster tile source.
     "tileSize": 256
 }
 \`\`\`
-`}),null),t(e,o(a,{headingLevel:"3",get entry(){return r.source_raster},section:"raster"}),null),t(e,o(i,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"}}}),null),t(e,o(s,{content:`
+`}),m,O),o(e,i(n,{headingLevel:"3",get entry(){return r.source_raster},section:"raster"}),g,I),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"}}}),d,R),o(e,i(s,{content:`
 ## raster-dem
 
 A raster DEM source. Only supports [Mapbox Terrain RGB](https://blog.mapbox.com/global-elevation-data-6689f1d0ba65) and Mapzen Terrarium tiles.
@@ -79,7 +79,7 @@ A raster DEM source. Only supports [Mapbox Terrain RGB](https://blog.mapbox.com/
     ],
 }
 \`\`\`
-`}),null),t(e,o(a,{headingLevel:"3",get entry(){return r.source_raster_dem},section:"raster-dem"}),null),t(e,o(i,{supportItems:{"basic functionality":{js:"0.43.0"}}}),null),t(e,o(s,{content:`
+`}),u,E),o(e,i(n,{headingLevel:"3",get entry(){return r.source_raster_dem},section:"raster-dem"}),b,P),o(e,i(a,{supportItems:{"basic functionality":{js:"0.43.0"}}}),h,D),o(e,i(s,{content:`
 ## geojson
 
 A [GeoJSON](http://geojson.org/) source. Data must be provided via a \`"data"\` property, whose value can be a URL or inline GeoJSON.
@@ -109,7 +109,7 @@ This example of a GeoJSON source refers to an external GeoJSON document via its 
     "data": "./lines.geojson"
 }
 \`\`\`
-`}),null),t(e,o(a,{headingLevel:"3",get entry(){return r.source_geojson},section:"geojson"}),null),t(e,o(i,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"},clustering:{js:"0.14.0",android:"4.2.0",ios:"3.4.0",macos:"0.3.0"},"line distance metrics":{js:"0.45.0",android:"6.5.0",ios:"4.4.0",macos:"0.11.0"}}}),null),t(e,o(s,{content:`
+`}),x,F),o(e,i(n,{headingLevel:"3",get entry(){return r.source_geojson},section:"geojson"}),y,H),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0",android:"2.0.1",ios:"2.0.0",macos:"0.1.0"},clustering:{js:"0.14.0",android:"4.2.0",ios:"3.4.0",macos:"0.3.0"},"line distance metrics":{js:"0.45.0",android:"6.5.0",ios:"4.4.0",macos:"0.11.0"}}}),_,V),o(e,i(s,{content:`
 ## image
 
 An image source. The \`"url"\` value contains the image location.
@@ -128,7 +128,7 @@ The \`"coordinates"\` array contains \`[longitude, latitude]\` pairs for the ima
     ]
 }
 \`\`\`
-`}),null),t(e,o(a,{headingLevel:"3",get entry(){return r.source_image},section:"image"}),null),t(e,o(i,{supportItems:{"basic functionality":{js:"0.10.0",android:"5.2.0",ios:"3.7.0",macos:"0.6.0"}}}),null),t(e,o(s,{content:`
+`}),S,X),o(e,i(n,{headingLevel:"3",get entry(){return r.source_image},section:"image"}),$,Z),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0",android:"5.2.0",ios:"3.7.0",macos:"0.6.0"}}}),v,te),o(e,i(s,{content:`
 ## video
 
 A video source. The \`"urls"\` value is an array. For each URL in the array, a video element [source](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source) will be created. To support the video across browsers, supply URLs in multiple formats.
@@ -150,4 +150,4 @@ The \`"coordinates"\` array contains \`[longitude, latitude]\` pairs for the vid
     ]
 }
 \`\`\`
-`}),null),t(e,o(a,{headingLevel:"3",get entry(){return r.source_video},section:"video"}),null),t(e,o(i,{supportItems:{"basic functionality":{js:"0.10.0"}}}),null),e})()}export{b as default};
+`}),f,ie),o(e,i(n,{headingLevel:"3",get entry(){return r.source_video},section:"video"}),j,re),o(e,i(a,{supportItems:{"basic functionality":{js:"0.10.0"}}}),ae,le),e})()}export{_e as default};

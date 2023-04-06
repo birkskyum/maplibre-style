@@ -1,1 +1,0 @@
-import{i as r,t as o}from"./entry-client-8aa7ecb6.js";const s=o('<div class="txt-em py12 px18 bg-gray-faint"></div>',2),a=e=>(()=>{const t=s.cloneNode(!0);return t.style.setProperty("color","#546C8C"),r(t,()=>e.children),t})();export{a as C};

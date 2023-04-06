@@ -1,10 +1,10 @@
-import{i,c as o,t as s}from"./entry-client-8aa7ecb6.js";import{M as r}from"./markdown-4e7b44d8.js";import{s as n}from"./v8-31fa6040.js";const a=s("<div></div>",2);function c(){const t=`
+import{g as i,i as o,c as s,t as n}from"./entry-client-815a31e8.js";import{M as r}from"./markdown-d15779de.js";import{s as a}from"./v8-31fa6040.js";const p=n("<div></div>",2);function d(){const t=`
 # Sprite
 
 A style's \`sprite\` property supplies a URL template for loading small images to use in rendering \`background-pattern\`, \`fill-pattern\`, \`line-pattern\`,\`fill-extrusion-pattern\` and \`icon-image\` style properties.
 
 \`\`\`json
-"sprite": ${JSON.stringify(n.$root.sprite.example,null,2)}
+"sprite": ${JSON.stringify(a.$root.sprite.example,null,2)}
 \`\`\`
 
 A valid sprite source must supply two types of files:
@@ -34,4 +34,4 @@ Apart from the required \`width\`, \`height\`, \`x\`, and \`y\` properties, the 
 
 MapLibre SDKs will use the value of the \`sprite\` property in the style to generate the URLs for loading both files. First, for both file types, it will append \`@2x\` to the URL on high-DPI devices. Second, it will append a file extension: \`.json\` for the index file, and \`.png\` for the image file. For example, if you specified \`"sprite": "https://example.com/sprite"\`, renderers would load \`https://example.com/sprite.json\` and \`https://example.com/sprite.png\`, or \`https://example.com/sprite@2x.json\` and \`https://example.com/sprite@2x.png\`.
 
-`;return(()=>{const e=a.cloneNode(!0);return i(e,o(r,{content:t})),e})()}export{c as default};
+`;return(()=>{const e=i(p);return o(e,s(r,{content:t})),e})()}export{d as default};
