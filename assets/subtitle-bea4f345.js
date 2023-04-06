@@ -1,1 +1,0 @@
-import{g as r,i as n,t as s}from"./entry-client-d9efcf85.js";const i=s('<div class="mb12 color-gray txt-em"></div>',2);function o(e){return(()=>{const t=r(i);return n(t,()=>e.children),t})()}export{o as S};
