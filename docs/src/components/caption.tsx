@@ -1,4 +1,6 @@
-const Caption = (props:any) => {
+import {JSX} from 'solid-js';
+
+const Caption = (props:{children?: JSX.Element}) => {
 
     return (
         <div
